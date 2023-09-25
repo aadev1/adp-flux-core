@@ -6,5 +6,5 @@ metadata:
 spec:
   interval: 5m
   ref:
-    branch: jk/add-service-ffc-demo-web
+    branch: jk/add-service-updated-repo-str
   url: https://github.com/DEFRA/adp-flux-services/
